@@ -26,7 +26,7 @@ new Teacher("남윤진", "yunjiniius@gmail.com");
 
 | Topic | Repository |
 | ------ | ------ |
-| MyBatis | [MyBatis practice source](https://github.com/HI-2023-JavaFullStack-6/MyBatis_Practice) |
+| MyBatis | [MyBatis practice source](https://github.com/HI-2023-JavaFullStack-6/MyBatis_Practice) [(reference)](https://github.com/HI-2023-JavaFullStack-6/MyBatis_Practice_Sample)|
 | JAVA | [Java practice source](https://github.com/HI-2023-JavaFullStack-6/JAVA_Practice) |
 
 &nbsp; 
