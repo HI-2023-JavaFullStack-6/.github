@@ -18,6 +18,7 @@ new Teacher("남윤진", "yunjiniius@gmail.com");
 | JDBC | [JDBC lecture source](https://github.com/HI-2023-JavaFullStack-6/01_JDBC) |
 | MyBatis | [MyBatis lecture source](https://github.com/HI-2023-JavaFullStack-6/02_MyBatis) |
 | Servlet | [Servlet lecture source](https://github.com/HI-2023-JavaFullStack-6/03_Servlet) |
+| JSP | [JSP lecture source](https://github.com/HI-2023-JavaFullStack-6/04_JSP) |
 
 
 &nbsp; 
