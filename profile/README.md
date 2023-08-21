@@ -20,6 +20,7 @@ new Teacher("남윤진", "yunjiniius@gmail.com");
 | Servlet | [Servlet lecture source](https://github.com/HI-2023-JavaFullStack-6/03_Servlet) |
 | JSP | [JSP lecture source](https://github.com/HI-2023-JavaFullStack-6/04_JSP) |
 | AJAX | [AJAX lecture source](https://github.com/HI-2023-JavaFullStack-6/05_AJAX) |
+| SpringCore | [SpringCore lecture source](https://github.com/HI-2023-JavaFullStack-6/06_SpringCore) |
 
 &nbsp; 
 
