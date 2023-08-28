@@ -21,6 +21,7 @@ new Teacher("남윤진", "yunjiniius@gmail.com");
 | JSP | [JSP lecture source](https://github.com/HI-2023-JavaFullStack-6/04_JSP) |
 | AJAX | [AJAX lecture source](https://github.com/HI-2023-JavaFullStack-6/05_AJAX) |
 | SpringCore | [SpringCore lecture source](https://github.com/HI-2023-JavaFullStack-6/06_SpringCore) |
+| SpringBoot | [SpringBoot(WebMVC) lecture source](https://github.com/HI-2023-JavaFullStack-6/07_SpringBoot) |
 
 &nbsp; 
 
@@ -30,6 +31,7 @@ new Teacher("남윤진", "yunjiniius@gmail.com");
 | ------ | ------ |
 | MyBatis | [MyBatis practice source](https://github.com/HI-2023-JavaFullStack-6/MyBatis_Practice) [(reference)](https://github.com/HI-2023-JavaFullStack-6/MyBatis_Practice_Sample)|
 | JAVA | [Java practice source](https://github.com/HI-2023-JavaFullStack-6/JAVA_Practice) |
+| Spring | [Spring practice answer source](https://github.com/HI-2023-JavaFullStack-6/Spring_Practice) |
 
 &nbsp; 
  
