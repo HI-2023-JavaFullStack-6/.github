@@ -23,7 +23,7 @@ new Teacher("남윤진", "yunjiniius@gmail.com");
 | SpringCore | [SpringCore lecture source](https://github.com/HI-2023-JavaFullStack-6/06_SpringCore) |
 | SpringBoot | [SpringBoot(WebMVC) lecture source](https://github.com/HI-2023-JavaFullStack-6/07_SpringBoot) |
 | MybatisSpring | [MyBatis-Spring lecture source](https://github.com/HI-2023-JavaFullStack-6/08_MybatisSpring) |
-
+| SpringSecurity | [SpringSecurity lecture source](https://github.com/HI-2023-JavaFullStack-6/09_SpringSecurity) |
 
 &nbsp; 
 
