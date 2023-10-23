@@ -27,7 +27,7 @@ new Teacher("남윤진", "yunjiniius@gmail.com");
 | JPA | [JPA lecture source](https://github.com/HI-2023-JavaFullStack-6/10_JPA.git) |
 | REST API | [REST API lecture source](https://github.com/HI-2023-JavaFullStack-6/11_REST-API.git) |
 | Javascript | [Javascript(ES6) lecture source](https://github.com/HI-2023-JavaFullStack-6/12_JavaScript.git) |
-
+| React.js | [React lecture source](https://github.com/HI-2023-JavaFullStack-6/13_React.git) |
 
 
 &nbsp; 
